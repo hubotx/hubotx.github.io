@@ -161,3 +161,6 @@ body {
     width: 700px;
   }
 }
+ul.lead, ol.lead, dl.lead {
+	text-align: left;
+}
